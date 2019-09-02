@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 8f9ae94b32842844a82d1a54e79ea461
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Aim_Sight
+    100004: Back_Strap
+    100006: Barrel
+    100008: //RootNode
+    100010: Cup
+    100012: Cut_Cutout
+    100014: Cylinder
+    100016: Cylinder_Holder
+    100018: Fangly_bits
+    100020: Frame
+    100022: Hammer
+    100024: Handle_Grip
+    100026: Loading_Level
+    100028: Main_Body
+    100030: Rammer
+    100032: Scrows
+    100034: Standing_End
+    100036: Trigger
+    100038: Trigger_Guard
+    100040: Wedge
+    400000: //RootNode
+    400002: Aim_Sight
+    400004: Back_Strap
+    400006: Barrel
+    400008: //RootNode
+    400010: Cup
+    400012: Cut_Cutout
+    400014: Cylinder
+    400016: Cylinder_Holder
+    400018: Fangly_bits
+    400020: Frame
+    400022: Hammer
+    400024: Handle_Grip
+    400026: Loading_Level
+    400028: Main_Body
+    400030: Rammer
+    400032: Scrows
+    400034: Standing_End
+    400036: Trigger
+    400038: Trigger_Guard
+    400040: Wedge
+    2100000: Rocks_M
+    2300000: //RootNode
+    2300002: Aim_Sight
+    2300004: Back_Strap
+    2300006: Barrel
+    2300008: Cup
+    2300010: Cut_Cutout
+    2300012: Cylinder
+    2300014: Cylinder_Holder
+    2300016: Fangly_bits
+    2300018: Frame
+    2300020: Hammer
+    2300022: Handle_Grip
+    2300024: Loading_Level
+    2300026: Main_Body
+    2300028: Rammer
+    2300030: Scrows
+    2300032: Standing_End
+    2300034: Trigger
+    2300036: Trigger_Guard
+    2300038: Wedge
+    3300000: //RootNode
+    3300002: Aim_Sight
+    3300004: Back_Strap
+    3300006: Barrel
+    3300008: Cup
+    3300010: Cut_Cutout
+    3300012: Cylinder
+    3300014: Cylinder_Holder
+    3300016: Fangly_bits
+    3300018: Frame
+    3300020: Hammer
+    3300022: Handle_Grip
+    3300024: Loading_Level
+    3300026: Main_Body
+    3300028: Rammer
+    3300030: Scrows
+    3300032: Standing_End
+    3300034: Trigger
+    3300036: Trigger_Guard
+    3300038: Wedge
+    4300000: rock3
+    4300002: Loading_Level
+    4300004: Frame
+    4300006: Standing_End
+    4300008: Main_Body
+    4300010: Cup
+    4300012: Cut_Cutout
+    4300014: Barrel
+    4300016: Aim_Sight
+    4300018: Rammer
+    4300020: Trigger
+    4300022: Trigger_Guard
+    4300024: Hammer
+    4300026: Cylinder_Holder
+    4300028: Wedge
+    4300030: Back_Strap
+    4300032: Handle_Grip
+    4300034: Scrows
+    4300036: Fangly_bits
+    4300038: Cylinder
+    4300040: Coltwalker
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColtWalker
+    second: {fileID: 2100000, guid: 08788a83db1b13b408d33cd92d24d588, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rocks_M
+    second: {fileID: 2100000, guid: bd0933967179d3c49a53fad5990eebdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StingrayPBS1
+    second: {fileID: 2100000, guid: 08788a83db1b13b408d33cd92d24d588, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
