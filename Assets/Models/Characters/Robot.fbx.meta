@@ -431,12 +431,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Robot_Eye_Material
-    second: {fileID: 2100000, guid: 20457b7a33fca4c4aab81f261f3949e5, type: 2}
+    second: {fileID: 2100000, guid: 46196ed4a0c6e4aa69367357a4336d47, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Robot_Material
-    second: {fileID: 2100000, guid: 00ce606901d484940abcda5d43c9eee1, type: 2}
+    second: {fileID: 2100000, guid: d6a3a00181709447dbded7c1b67ed19d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

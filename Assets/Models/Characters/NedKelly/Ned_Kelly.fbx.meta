@@ -446,7 +446,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: NedKelly_M
-    second: {fileID: 2100000, guid: 8240dc90edf034d93b1c14aea46c9343, type: 2}
+    second: {fileID: 2100000, guid: 84ee4d1235de5425aaa266ef85cac631, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

@@ -815,27 +815,27 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Face
-    second: {fileID: 2100000, guid: 27064a718fef54494be73e826356eecf, type: 2}
+    second: {fileID: 2100000, guid: 49d5905ce62e44cc4a2ada26124a004c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: eye
-    second: {fileID: 2100000, guid: e6d432ef6946b46288838b0468697679, type: 2}
+    second: {fileID: 2100000, guid: 2e499460089c848d6a03f27f8fcf8ad1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: male_prisoner
-    second: {fileID: 2100000, guid: 2a9adf8d0154f405d96282732a9bd2a2, type: 2}
+    second: {fileID: 2100000, guid: ba5628ad46e49473dbc3b5a72bf34e9c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: male_prisoner_suit
-    second: {fileID: 2100000, guid: d7eba7c5361d34a83887b4d2fcfd0082, type: 2}
+    second: {fileID: 2100000, guid: cd494520937e24f28b76cc0afb45e6c1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: shoes
-    second: {fileID: 2100000, guid: 02d155f2c70f34ccd876213f7f3d743e, type: 2}
+    second: {fileID: 2100000, guid: 25af6df1f0490415bb1771bab9c5c753, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
