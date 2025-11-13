@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 namespace UnityStandardAssets.Utility
 {
@@ -7,7 +8,7 @@ namespace UnityStandardAssets.Utility
     {
         // An incredibly simple menu which, when given references
         // to gameobjects in the scene
-        public GUIText camSwitchButton;
+        public Button camSwitchButton;
         public GameObject[] objects;
 
 
